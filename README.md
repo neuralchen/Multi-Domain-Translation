@@ -20,7 +20,11 @@
 
 
 # Usage:
-两种方式运行训练或者测试脚本，训练脚本存放在 `TraininScripts/` 文件夹中，自己的脚本命名方式 `trainer_[your name].py`
+## train
+```python main.py --mode train --version [train_name] --TrainScriptName [your script name]```
+
+## Attention
+训练脚本存放在 `TraininScripts/` 文件夹中，自己的脚本命名方式 `trainer_[your name].py`
 
 
 ### `trainer_[your name].py` 代码结构为：
