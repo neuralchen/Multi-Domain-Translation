@@ -1,0 +1,10 @@
+*.pyc
+.vscode/
+checkpoints/
+data/
+logs/
+models/
+samples/
+TestFiles/
+TrainingLogs/
+Pretrained/

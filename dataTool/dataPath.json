@@ -1,0 +1,11 @@
+{
+    "cifar10":"./data/cifar10",
+    "cifar100":"./data/cifar100",
+    "celeba":"F:\\DataSet\\CelebA\\Img\\img_align_celeba\\img_align_celeba",
+    "celebaatt":"F:\\DataSet\\CelebA\\Img\\img_align_celeba\\list_attr_celeba.txt",
+    "celebahq"  :"F:\\celeba-hq\\celeba-hq\\celeba-1024",
+    "celebahqatt":"F:\\Celeba\\data_crop_384_jpg\\list_attr_celeba.txt",
+    "celeba384"  :"F:\\Celeba\\data_crop_384_jpg\\img_crop_celeba",
+    "celeba384att":"F:\\Celeba\\data_crop_384_jpg\\list_attr_celeba.txt",
+    "lsun":""
+}
