@@ -23,7 +23,7 @@
 ## train
 ```python main.py --mode train --version [train_name] --TrainScriptName [your script name]```
 
-## Attention
+### Attention
 训练脚本存放在 `TraininScripts/` 文件夹中，自己的脚本命名方式 `trainer_[your name].py`
 
 
